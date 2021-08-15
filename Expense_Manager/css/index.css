@@ -1,0 +1,37 @@
+footer{
+    position: fixed;
+    background-color: #101010;
+    color:#9d9d9d;
+    padding: 10px 0;
+    bottom: 0;
+    width:100%;
+    overflow: hidden;
+    height:50px;
+}
+#banner_image{
+    padding-top: 150px;
+    padding-bottom: 50px;
+    width:auto;
+    height:1000px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/rupixen-com-o9YWMdUoW8I-unsplash.jpg);
+    background-size: cover;  
+    overflow-x: hidden;
+}
+#banner_content{
+    position: relative;
+    padding-top: 4%;
+    padding-bottom: 8%;
+    margin-top: 8%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 900px;
+    max-height: 200px;
+}
+.about_content{
+    padding-top: 10%;
+}
+body{
+        overflow-x: hidden;
+}
